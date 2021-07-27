@@ -291,9 +291,6 @@ export default class GeneralUserSettingsTab extends React.Component {
             threepidSection = <div>
                 <span className="mx_SettingsTab_subheading">{_t("Email addresses")}</span>
                 {emails}
-
-                <span className="mx_SettingsTab_subheading">{_t("Phone numbers")}</span>
-                {msisdns}
             </div>;
         } else if (this.state.serverSupportsSeparateAddAndBind === null) {
             threepidSection = <Spinner />;
@@ -454,8 +451,6 @@ export default class GeneralUserSettingsTab extends React.Component {
                 {this._renderAccountSection()}
                 {this._renderLanguageSection()}
                 {supportsMultiLanguageSpellCheck ? this._renderSpellCheckSection() : null}
-                { discoverySection }
-                {this._renderIntegrationManagerSection() /* Has its own title */}
                 { accountManagementSection }
             </div>
         );
