@@ -150,15 +150,7 @@ export default class HelpUserSettingsTab extends React.Component<IProps, IState>
                 <span className='mx_SettingsTab_subheading'>{ _t("Credits") }</span>
                 <ul>
                     <li>
-                        The <a href="themes/element/img/backgrounds/lake.jpg" rel="noreferrer noopener" target="_blank">
-                            default cover photo
-                        </a> is ©&nbsp;
-                        <a href="https://www.flickr.com/golan" rel="noreferrer noopener" target="_blank">
-                            Jesús Roncero
-                        </a> used under the terms of&nbsp;
-                        <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noreferrer noopener" target="_blank">
-                            CC-BY-SA 4.0
-                        </a>.
+                        This application is based on the Matrix messaging protocol and the Element web client. It is integrated into the Qwerty Networks ecosystem.
                     </li>
                     <li>
                         The <a
@@ -300,40 +292,12 @@ export default class HelpUserSettingsTab extends React.Component<IProps, IState>
 
         return (
             <div className="mx_SettingsTab mx_HelpUserSettingsTab">
-                <div className="mx_SettingsTab_heading">{ _t("Help & About") }</div>
-                { bugReportingSection }
-                <div className='mx_SettingsTab_section'>
-                    <span className='mx_SettingsTab_subheading'>{ _t("FAQ") }</span>
-                    <div className='mx_SettingsTab_subsectionText'>
-                        { faqText }
-                    </div>
-                    <AccessibleButton kind="primary" onClick={KeyboardShortcuts.toggleDialog}>
-                        { _t("Keyboard Shortcuts") }
-                    </AccessibleButton>
-                </div>
-                <div className='mx_SettingsTab_section mx_HelpUserSettingsTab_versions'>
-                    <span className='mx_SettingsTab_subheading'>{ _t("Versions") }</span>
-                    <div className='mx_SettingsTab_subsectionText'>
-                        <div className="mx_HelpUserSettingsTab_copy">
-                            { appVersion }<br />
-                            { olmVersion }<br />
-                            <AccessibleTooltipButton
-                                title={_t("Copy")}
-                                onClick={this.onCopyVersionClicked}
-                                className="mx_HelpUserSettingsTab_copyButton"
-                            />
-                        </div>
-                        { updateButton }
-                    </div>
-                </div>
-                { this.renderLegal() }
-                { this.renderCredits() }
+                <div className="mx_SettingsTab_heading">{_t("Help & About")}</div>
+                {this.renderLegal()}
+                {this.renderCredits()}
                 <div className='mx_SettingsTab_section mx_HelpUserSettingsTab_versions'>
                     <span className='mx_SettingsTab_subheading'>{ _t("Advanced") }</span>
                     <div className='mx_SettingsTab_subsectionText'>
-                        { _t("Homeserver is") } <code>{ MatrixClientPeg.get().getHomeserverUrl() }</code><br />
-                        { _t("Identity server is") } <code>{ MatrixClientPeg.get().getIdentityServerUrl() }</code><br />
-                        <br />
                         <details>
                             <summary>{ _t("Access Token") }</summary><br />
                             <b>{ _t("Your access token gives full access to your account."
