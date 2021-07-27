@@ -83,7 +83,7 @@ export default class PasswordLogin extends React.PureComponent<IProps, IState> {
         this.state = {
             // Field error codes by field ID
             fieldValid: {},
-            loginType: LoginField.MatrixId,
+            loginType: LoginField.Email,
             password: "",
         };
     }
@@ -440,14 +440,14 @@ export default class PasswordLogin extends React.PureComponent<IProps, IState> {
                         onChange={this.onLoginTypeChange}
                         disabled={this.props.disableSubmit}
                     >
-                        <option key={LoginField.MatrixId} value={LoginField.MatrixId}>
-                            { _t('Username') }
-                        </option>
                         <option
                             key={LoginField.Email}
                             value={LoginField.Email}
                         >
-                            { _t('Email address') }
+                            {_t('Email address')}
+                        </option>
+                        <option key={LoginField.MatrixId} value={LoginField.MatrixId}>
+                            {_t('Username')}
                         </option>
                         <option key={LoginField.Password} value={LoginField.Password}>
                             { _t('Phone') }
