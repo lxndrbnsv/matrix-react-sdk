@@ -132,17 +132,6 @@ export default class UserSettingsDialog extends React.Component<IProps, IState> 
             "mx_UserSettingsDialog_securityIcon",
             <SecurityUserSettingsTab closeSettingsFn={this.props.onFinished} />,
         ));
-        // Show the Labs tab if enabled or if there are any active betas
-        if (SdkConfig.get()['showLabsSettings']
-            || SettingsStore.getFeatureSettingNames().some(k => SettingsStore.getBetaInfo(k))
-        ) {
-            tabs.push(new Tab(
-                UserTab.Labs,
-                _td("Labs"),
-                "mx_UserSettingsDialog_labsIcon",
-                <LabsUserSettingsTab />,
-            ));
-        }
         if (this.state.mjolnirEnabled) {
             tabs.push(new Tab(
                 UserTab.Mjolnir,
