@@ -1767,5 +1767,9 @@
     "Identity server (%(server)s)": "Server totožností (%(server)s)",
     "Could not connect to identity server": "Nie je možné sa pripojiť k serveru totožností",
     "Not a valid identity server (status code %(code)s)": "Toto nie je funkčný server totožností (kód stavu %(code)s)",
-    "Identity server URL must be HTTPS": "URL adresa servera totožností musí začínať HTTPS"
+    "Identity server URL must be HTTPS": "URL adresa servera totožností musí začínať HTTPS",
+    "The other party declined the call.": "Druhá strana odmietla hovor.",
+    "Call Declined": "Hovor odmietnutý",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

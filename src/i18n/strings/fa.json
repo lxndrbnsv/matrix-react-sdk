@@ -2834,5 +2834,8 @@
     "Transfer Failed": "انتقال شکست خورد",
     "Unable to transfer call": "ناتوان در انتقال تماس",
     "The user you called is busy.": "کاربر موردنظر مشغول است.",
-    "User Busy": "کاربر مشغول"
+    "User Busy": "کاربر مشغول",
+    "May include members not in %(communityName)s": "ممکن شامل اعضایی که در %(communityName)s نیستند نیز شود",
+    "Searching through encrypted messages is unavailable": "جستجو از طریق پیام های رمزگذاری شده در دسترس نیست",
+    "Searching through encrypted files is unavailable": "جستجو از طریق فایل های رمزگذاری شده در دسترس نیست"
 }

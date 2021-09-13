@@ -3247,5 +3247,8 @@
     "Loading new room": "Chargement du nouveau salon",
     "Upgrading room": "Mise-à-jour du salon",
     "Waiting for you to verify on your other session…": "En attente de votre vérification sur votre autre session…",
-    "Waiting for you to verify on your other session, %(deviceName)s (%(deviceId)s)…": "En attente de votre vérification sur votre autre session, %(deviceName)s (%(deviceId)s)…"
+    "Waiting for you to verify on your other session, %(deviceName)s (%(deviceId)s)…": "En attente de votre vérification sur votre autre session, %(deviceName)s (%(deviceId)s)…",
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "Nous avons envoyé les invitations, mais les personnes ci-dessous n’ont pas pu être invitées à rejoindre <RoomName/>",
+    "Searching through encrypted messages is unavailable": "La recherche dans les messages cryptés n'est pas disponible",
+    "Searching through encrypted files is unavailable": "La recherche dans les fichiers cryptés n'est pas disponible"
 }

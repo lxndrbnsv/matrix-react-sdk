@@ -3251,5 +3251,8 @@
     "Downloading": "Scaricamento",
     "They won't be able to access whatever you're not an admin of.": "Non potrà più accedere anche dove non sei amministratore.",
     "Ban them from specific things I'm able to": "Bandiscilo da cose specifiche dove posso farlo",
-    "Unban them from specific things I'm able to": "Riammettilo in cose specifiche dove posso farlo"
+    "Unban them from specific things I'm able to": "Riammettilo in cose specifiche dove posso farlo",
+    "%(senderName)s set their display name to %(displayName)s": "%(senderName)s ha impostato il proprio nome a %(displayName)s",
+    "Searching through encrypted messages is unavailable": "La ricerca nei messaggi crittografati non è disponibile",
+    "Searching through encrypted files is unavailable": "La ricerca nei file crittografati non è disponibile"
 }

@@ -324,5 +324,7 @@
     "Confirm adding this email address by using Single Sign On to prove your identity.": "Confirmatz l'adicion d'aquela adreça e-mail en utilizant l'autentificacion unica per provar la vòstra identitat.",
     "Use Single Sign On to continue": "Utilizar l'autentificacion unica (SSO) per contunhar",
     "This phone number is already in use": "Aquel numèro de telefòn es ja utilizat",
-    "This email address is already in use": "Aquela adreça e-mail es ja utilizada"
+    "This email address is already in use": "Aquela adreça e-mail es ja utilizada",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

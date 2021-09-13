@@ -1551,5 +1551,8 @@
     "There was an error looking up the phone number": "حدث خطأ أثناء البحث عن رقم الهاتف",
     "Unable to look up phone number": "غير قادر على ايجاد رقم الهاتف",
     "The user you called is busy.": "المستخدم الذي اتصلت به مشغول.",
-    "User Busy": "المستخدم مشغول"
+    "User Busy": "المستخدم مشغول",
+    "Explore rooms": "استكشِف الغرف",
+    "Searching through encrypted messages is unavailable": "البحث في الرسائل المشفرة غير متوفر",
+    "Searching through encrypted files is unavailable": "البحث في الملفات المشفرة غير متوفر"
 }

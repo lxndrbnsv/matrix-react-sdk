@@ -2490,5 +2490,8 @@
     "Identity server (%(server)s)": "Сървър за самоличност (%(server)s)",
     "Could not connect to identity server": "Неуспешна връзка със сървъра за самоличност",
     "Not a valid identity server (status code %(code)s)": "Невалиден сървър за самоличност (статус код %(code)s)",
-    "Identity server URL must be HTTPS": "Адресът на сървъра за самоличност трябва да бъде HTTPS"
+    "Identity server URL must be HTTPS": "Адресът на сървъра за самоличност трябва да бъде HTTPS",
+    "Call failed because microphone could not be accessed. Check that a microphone is plugged in and set up correctly.": "Неуспешно повикване поради неуспешен достъп до микрофон. Проверете дали микрофонът е включен и настроен правилно.",
+    "Searching through encrypted messages is unavailable": "Търсенето в шифровани съобщения е недостъпно",
+    "Searching through encrypted files is unavailable": "Търсенето през криптирани файлове е недостъпно"
 }

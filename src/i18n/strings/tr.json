@@ -2267,5 +2267,8 @@
     "Identity server (%(server)s)": "(%(server)s) Kimlik Sunucusu",
     "Could not connect to identity server": "Kimlik Sunucusuna bağlanılamadı",
     "Not a valid identity server (status code %(code)s)": "Geçerli bir Kimlik Sunucu değil ( durum kodu %(code)s )",
-    "Identity server URL must be HTTPS": "Kimlik Sunucu URL adresi HTTPS olmak zorunda"
+    "Identity server URL must be HTTPS": "Kimlik Sunucu URL adresi HTTPS olmak zorunda",
+    "User Busy": "Kullanıcı Meşgul",
+    "Searching through encrypted messages is unavailable": "Şifreli mesajlarda arama yapılamaz",
+    "Searching through encrypted files is unavailable": "Şifreli dosyalar arasında arama kullanılamaz"
 }

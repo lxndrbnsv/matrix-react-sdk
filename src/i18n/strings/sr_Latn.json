@@ -58,5 +58,7 @@
     "You need to be logged in.": "Morate biti prijavljeni",
     "You need to be able to invite users to do that.": "Mora vam biti dozvoljeno da pozovete korisnike kako bi to uradili.",
     "Failed to send request.": "Slanje zahteva nije uspelo.",
-    "Create Account": "Napravite nalog"
+    "Create Account": "Napravite nalog",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

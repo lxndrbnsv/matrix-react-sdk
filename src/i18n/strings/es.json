@@ -3246,5 +3246,8 @@
     "Sending invites... (%(progress)s out of %(count)s)|other": "Enviando invitaciones… (%(progress)s de %(count)s)",
     "Loading new room": "Cargando la nueva sala",
     "Upgrading room": "Actualizar sala",
-    "Polls (under active development)": "Encuestas (en construcción)"
+    "Polls (under active development)": "Encuestas (en construcción)",
+    "Some invites couldn't be sent": "No se han podido enviar algunas invitaciones",
+    "Searching through encrypted messages is unavailable": "La búsqueda a través de mensajes cifrados no está disponible",
+    "Searching through encrypted files is unavailable": "La búsqueda en archivos cifrados no está disponible"
 }

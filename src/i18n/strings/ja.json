@@ -2264,5 +2264,9 @@
     "Verify your identity to access encrypted messages and prove your identity to others.": "あなたが本人であることを検証し、暗号化されたメッセージにアクセスします。",
     "New? <a>Create account</a>": "<a>アカウント作成</a>",
     "Are you sure you want to sign out?": "サインアウトしてよろしいですか？",
-    "Upgrade to %(hostSignupBrand)s": "%(hostSignupBrand)s にアップグレード"
+    "Upgrade to %(hostSignupBrand)s": "%(hostSignupBrand)s にアップグレード",
+    "View dev tools": "開発者ツールを表示",
+    "To view %(spaceName)s, you need an invite": "%(spaceName)s を閲覧するには招待が必要です",
+    "Searching through encrypted messages is unavailable": "暗号化されたメッセージを検索することはできません",
+    "Searching through encrypted files is unavailable": "暗号化されたファイルを検索することはできません"
 }

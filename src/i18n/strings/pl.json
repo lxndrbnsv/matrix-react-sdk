@@ -2088,5 +2088,8 @@
     "Your homeserver rejected your log in attempt. This could be due to things just taking too long. Please try again. If this continues, please contact your homeserver administrator.": "Twój serwer domowy odrzucił twoją próbę zalogowania się. Może być to spowodowane zbyt długim czasem oczekiwania. Prosimy spróbować ponownie. Jeśli problem się powtórzy, prosimy o kontakt z administratorem twojego serwera domowego.",
     "Failed to transfer call": "Nie udało się przekazać połączenia",
     "Transfer Failed": "Transfer nie powiódł się",
-    "Unable to transfer call": "Nie udało się przekazać połączenia"
+    "Unable to transfer call": "Nie udało się przekazać połączenia",
+    "We're working on this as part of the beta, but just want to let you know.": "Pracujemy nad tym w ramach bety, ale chcemy, żebyś wiedział(a).",
+    "Searching through encrypted messages is unavailable": "Wyszukiwanie zaszyfrowanych wiadomości jest niedostępne",
+    "Searching through encrypted files is unavailable": "Wyszukiwanie zaszyfrowanych plików jest niedostępne"
 }

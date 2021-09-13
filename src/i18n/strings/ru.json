@@ -3249,5 +3249,8 @@
     "%(count)s reply|one": "%(count)s ответ",
     "%(count)s reply|other": "%(count)s ответов",
     "View in room": "Просмотреть в комнате",
-    "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "Введите свою секретную фразу или <button> используйте секретный ключ </button> для продолжения."
+    "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "Введите свою секретную фразу или <button> используйте секретный ключ </button> для продолжения.",
+    "User Busy": "Пользователь занят",
+    "Searching through encrypted messages is unavailable": "Поиск по зашифрованным сообщениям недоступен",
+    "Searching through encrypted files is unavailable": "Поиск по зашифрованным файлам недоступен"
 }

@@ -2107,5 +2107,8 @@
     "Identity server (%(server)s)": "Tapatybės serveris (%(server)s)",
     "Could not connect to identity server": "Nepavyko prisijungti prie tapatybės serverio",
     "Not a valid identity server (status code %(code)s)": "Netinkamas tapatybės serveris (statuso kodas %(code)s)",
-    "Identity server URL must be HTTPS": "Tapatybės Serverio URL privalo būti HTTPS"
+    "Identity server URL must be HTTPS": "Tapatybės Serverio URL privalo būti HTTPS",
+    "Cayman Islands": "Kaimanų Salos",
+    "Searching through encrypted messages is unavailable": "Ieškoti per užšifruotus pranešimus negalima",
+    "Searching through encrypted files is unavailable": "Ieškoti per užšifruotus failus negalima"
 }

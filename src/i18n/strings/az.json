@@ -309,5 +309,8 @@
     "Explore rooms": "Otaqları kəşf edin",
     "Sign In": "Daxil ol",
     "Identity server is": "Eyniləşdirmənin serveri bu",
-    "Identity server": "Eyniləşdirmənin serveri"
+    "Identity server": "Eyniləşdirmənin serveri",
+    "Sign In": "Daxil ol",
+    "Searching through encrypted messages is unavailable": "Şifrəli mesajlar vasitəsilə axtarış etmək mümkün deyil",
+    "Searching through encrypted files is unavailable": "Şifrəli fayllar vasitəsilə axtarış etmək mümkün deyil"
 }

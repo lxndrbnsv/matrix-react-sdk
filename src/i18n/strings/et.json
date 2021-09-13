@@ -3248,5 +3248,8 @@
     "%(count)s reply|one": "%(count)s vastus",
     "%(count)s reply|other": "%(count)s vastust",
     "View in room": "Vaata jututoas",
-    "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "Jätkamiseks sisesta oma turvafraas või <button>kasuta oma turvavõtit</button>."
+    "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "Jätkamiseks sisesta oma turvafraas või <button>kasuta oma turvavõtit</button>.",
+    "Report to moderators prototype. In rooms that support moderation, the `report` button will let you report abuse to room moderators": "Meie esimene katsetus modereerimisega. Kui jututoas on modereerimine toetatud, siis „Teata moderaatorile“ nupust võid saada teate ebasobiliku sisu kohta",
+    "Searching through encrypted messages is unavailable": "Krüptitud sõnumite kaudu otsimine pole saadaval",
+    "Searching through encrypted files is unavailable": "Krüptitud failidest otsimine pole saadaval"
 }

@@ -1944,5 +1944,9 @@
     "Identity server (%(server)s)": "Identitate-zerbitzaria (%(server)s)",
     "Could not connect to identity server": "Ezin izan da identitate-zerbitzarira konektatu",
     "Not a valid identity server (status code %(code)s)": "Ez da identitate zerbitzari baliogarria (egoera-mezua %(code)s)",
-    "Identity server URL must be HTTPS": "Identitate zerbitzariaren URL-a HTTPS motakoa izan behar du"
+    "Identity server URL must be HTTPS": "Identitate zerbitzariaren URL-a HTTPS motakoa izan behar du",
+    "Search rooms": "Bilatu gelak",
+    "User menu": "Erabiltzailea-menua",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

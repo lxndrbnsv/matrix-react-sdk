@@ -3249,5 +3249,8 @@
     "%(count)s reply|other": "%(count)s 条回复",
     "View in room": "在聊天室内查看",
     "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "输入安全短语或<button>使用安全密钥</button>以继续。",
-    "What projects are your team working on?": "你的团队正在进行什么项目?"
+    "What projects are your team working on?": "你的团队正在进行什么项目?",
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "我们已向其他人发送邀请，除了以下无法邀请至 <RoomName/> 的人",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

@@ -2983,5 +2983,8 @@
     "Plain Text": "Texto Simples",
     "JSON": "JSON",
     "HTML": "HTML",
-    "%(senderDisplayName)s sent a sticker.": "%(senderDisplayName)s enviou uma figurinha."
+    "%(senderDisplayName)s sent a sticker.": "%(senderDisplayName)s enviou uma figurinha.",
+    "Original event source": "Fonte do evento original",
+    "Searching through encrypted messages is unavailable": "A pesquisa de mensagens criptografadas não está disponível",
+    "Searching through encrypted files is unavailable": "A pesquisa em arquivos criptografados não está disponível"
 }

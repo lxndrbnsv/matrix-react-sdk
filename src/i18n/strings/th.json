@@ -289,5 +289,7 @@
     "Sign In": "ลงชื่อเข้า",
     "Create Account": "สร้างบัญชี",
     "Add Email Address": "เพิ่มที่อยู่อีเมล",
-    "Confirm": "ยืนยัน"
+    "Confirm": "ยืนยัน",
+    "Searching through encrypted messages is unavailable": "ไม่สามารถค้นหาข้อความที่เข้ารหัสได้",
+    "Searching through encrypted files is unavailable": "การค้นหาไฟล์ที่เข้ารหัสไม่พร้อมใช้งาน"
 }

@@ -1919,5 +1919,8 @@
     "%(senderName)s unpinned a message from this room. See all pinned messages.": "%(senderName)s noņēma piespraustu ziņu šajā istabā. Skatīt visas piespraustās ziņas.",
     "%(senderName)s unpinned <a>a message</a> from this room. See all <b>pinned messages</b>.": "%(senderName)s noņēma piespraustu <a>ziņu</a> šajā istabā. Skatīt visas <b>piespraustās ziņas</b>.",
     "%(senderName)s pinned a message to this room. See all pinned messages.": "%(senderName)s piesprauda ziņu šajā istabā. Skatīt visas piespraustās ziņas.",
-    "%(senderName)s pinned <a>a message</a> to this room. See all <b>pinned messages</b>.": "%(senderName)s piesprauda <a>ziņu</a> šajā istabā. Skatīt visas <b>piespraustās ziņas</b>."
+    "%(senderName)s pinned <a>a message</a> to this room. See all <b>pinned messages</b>.": "%(senderName)s piesprauda <a>ziņu</a> šajā istabā. Skatīt visas <b>piespraustās ziņas</b>.",
+    "Check your devices": "Pārskatiet savas ierīces",
+    "Searching through encrypted messages is unavailable": "Meklēšana, izmantojot šifrētus ziņojumus, nav pieejama",
+    "Searching through encrypted files is unavailable": "Meklēšana, izmantojot šifrētus failus, nav pieejama"
 }

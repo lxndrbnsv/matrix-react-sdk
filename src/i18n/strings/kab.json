@@ -2365,5 +2365,8 @@
     "Identity server (%(server)s)": "Aqeddac n timagit (%(server)s)",
     "Could not connect to identity server": "Ur izmir ara ad yeqqen ɣer uqeddac n timagit",
     "Not a valid identity server (status code %(code)s)": "Aqeddac n timagit mačči d ameɣtu (status code %(code)s)",
-    "Identity server URL must be HTTPS": "URL n uqeddac n timagit ilaq ad yili d HTTPS"
+    "Identity server URL must be HTTPS": "URL n uqeddac n timagit ilaq ad yili d HTTPS",
+    "Try again": "Ɛreḍ tikkelt-nniḍen",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

@@ -3214,5 +3214,8 @@
     "Waiting for you to verify on your other session…": "Väntar på att du ska verifiera på din andra session…",
     "Waiting for you to verify on your other session, %(deviceName)s (%(deviceId)s)…": "Väntar på att du ska verifiera på din andra session, %(deviceName)s (%(deviceId)s)…",
     "Polls (under active development)": "Röstning (under aktiv utveckling)",
-    "File Attached": "Fil bifogad"
+    "File Attached": "Fil bifogad",
+    "Report": "Rapportera",
+    "Searching through encrypted messages is unavailable": "Att söka igenom krypterade meddelanden är inte tillgängligt",
+    "Searching through encrypted files is unavailable": "Att söka igenom krypterade filer är inte tillgängligt"
 }

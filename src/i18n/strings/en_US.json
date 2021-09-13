@@ -531,5 +531,8 @@
     "Answered Elsewhere": "Answered Elsewhere",
     "The call could not be established": "The call could not be established",
     "The user you called is busy.": "The user you called is busy.",
-    "User Busy": "User Busy"
+    "User Busy": "User Busy",
+    "Message search initialisation failed": "Message search initialization failed",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

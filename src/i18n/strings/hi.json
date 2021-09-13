@@ -498,5 +498,8 @@
     "Explore rooms": "रूम का अन्वेषण करें",
     "Sign In": "साइन करना",
     "Create Account": "खाता बनाएं",
-    "Identity server is": "आइडेंटिटी सर्वर हैं"
+    "Identity server is": "आइडेंटिटी सर्वर हैं",
+    "Create Account": "खाता बनाएं",
+    "Searching through encrypted messages is unavailable": "एन्क्रिप्टेड संदेशों के माध्यम से खोजना अनुपलब्ध है",
+    "Searching through encrypted files is unavailable": "एन्क्रिप्टेड फ़ाइलों के माध्यम से खोजना अनुपलब्ध है"
 }

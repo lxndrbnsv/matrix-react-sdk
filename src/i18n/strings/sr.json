@@ -1549,5 +1549,8 @@
     "Whether you're using %(brand)s as an installed Progressive Web App": "Без обзира да ли користите %(brand)s као инсталирану Прогресивну веб апликацију",
     "Whether or not you're using the 'breadcrumbs' feature (avatars above the room list)": "Без обзира да ли користите функцију „breadcrumbs“ (аватари изнад листе соба)",
     "Using this widget may share data <helpIcon /> with %(widgetDomain)s & your integration manager.": "Коришћење овог виџета може да дели податке <helpIcon /> са %(widgetDomain)s и вашим интеграционим менаџером.",
-    "Identity server is": "Идентитетски сервер је"
+    "Identity server is": "Идентитетски сервер је",
+    "Whether or not you're using the 'breadcrumbs' feature (avatars above the room list)": "Без обзира да ли користите функцију „breadcrumbs“ (аватари изнад листе соба)",
+    "Searching through encrypted messages is unavailable": "Претраживање шифрованих порука није доступно",
+    "Searching through encrypted files is unavailable": "Претраживање шифрованих датотека није доступно"
 }

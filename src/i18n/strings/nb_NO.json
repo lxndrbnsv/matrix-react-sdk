@@ -1812,5 +1812,8 @@
     "St. Pierre & Miquelon": "Saint-Pierre og Miquelon",
     "St. Martin": "Saint Martin",
     "St. Barthélemy": "Saint Barthélemy",
-    "%(date)s at %(time)s": "%(date)s klokken %(time)s"
+    "%(date)s at %(time)s": "%(date)s klokken %(time)s",
+    "Secret storage:": "Hemmelig lagring:",
+    "Searching through encrypted messages is unavailable": "Søk gjennom krypterte meldinger er ikke tilgjengelig",
+    "Searching through encrypted files is unavailable": "Å søke gjennom krypterte filer er ikke tilgjengelig"
 }

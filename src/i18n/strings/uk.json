@@ -2144,5 +2144,8 @@
     "Stop the camera": "Вимкнути камеру",
     "Your camera is still enabled": "Ваша камера досі увімкнена",
     "Your camera is turned off": "Вашу камеру вимкнено",
-    "sends snowfall": "надсилає снігопад"
+    "sends snowfall": "надсилає снігопад",
+    "Sends the given message as a spoiler": "Надсилає вказане повідомлення згорненим",
+    "Searching through encrypted messages is unavailable": "Пошук за зашифрованими повідомленнями недоступний",
+    "Searching through encrypted files is unavailable": "Пошук у зашифрованих файлах недоступний"
 }

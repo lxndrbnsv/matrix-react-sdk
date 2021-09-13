@@ -3252,5 +3252,8 @@
     "%(count)s reply|other": "%(count)s odpovědí",
     "View in room": "Zobrazit v místnosti",
     "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "Zadejte bezpečnostní frázi nebo <button>použijte bezpečnostní klíč</button> pro pokračování.",
-    "What projects are your team working on?": "Na jakých projektech váš tým pracuje?"
+    "What projects are your team working on?": "Na jakých projektech váš tým pracuje?",
+    "Address": "Adresa",
+    "Searching through encrypted messages is unavailable": "Vyhledávání v šifrovaných zprávách není k dispozici",
+    "Searching through encrypted files is unavailable": "Vyhledávání v šifrovaných souborech není k dispozici"
 }

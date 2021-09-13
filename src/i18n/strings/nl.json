@@ -3206,5 +3206,8 @@
     "Fetching data...": "Gegevens ophalen...",
     "To proceed, please accept the verification request on your other login.": "Om door te gaan, accepteer het verificatieverzoek op uw andere login.",
     "Waiting for you to verify on your other session…": "Wachten op uw verificatie op uw andere sessie…",
-    "Waiting for you to verify on your other session, %(deviceName)s (%(deviceId)s)…": "Wachten op uw verificatie op uw andere sessie, %(deviceName)s (%(deviceId)s)…"
+    "Waiting for you to verify on your other session, %(deviceName)s (%(deviceId)s)…": "Wachten op uw verificatie op uw andere sessie, %(deviceName)s (%(deviceId)s)…",
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "De anderen zijn verstuurd, maar de volgende mensen konden niet worden uitgenodigd voor <RoomName/>",
+    "Searching through encrypted messages is unavailable": "Zoeken in versleutelde berichten is niet beschikbaar",
+    "Searching through encrypted files is unavailable": "Zoeken in versleutelde bestanden is niet beschikbaar"
 }

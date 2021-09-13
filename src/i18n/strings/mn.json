@@ -2,5 +2,7 @@
     "Explore rooms": "Өрөөнүүд үзэх",
     "Sign In": "Нэвтрэх",
     "Create Account": "Хэрэглэгч үүсгэх",
-    "Dismiss": "Орхих"
+    "Dismiss": "Орхих",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

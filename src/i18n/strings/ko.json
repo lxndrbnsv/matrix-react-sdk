@@ -1422,5 +1422,8 @@
     "Identity server URL must be HTTPS": "ID 서버 URL은 HTTPS이어야 함",
     "Appearance": "모습",
     "Appearance Settings only affect this %(brand)s session.": "모습 설정은 이 %(brand)s 세션에만 영향을 끼칩니다.",
-    "Customise your appearance": "모습 개인화하기"
+    "Customise your appearance": "모습 개인화하기",
+    "Create Account": "계정 만들기",
+    "Searching through encrypted messages is unavailable": "암호화된 메시지를 통해 검색할 수 없습니다.",
+    "Searching through encrypted files is unavailable": "암호화된 파일 검색 불가"
 }

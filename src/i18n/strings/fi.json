@@ -2887,5 +2887,8 @@
     "From the beginning": "Alusta lähtien",
     "Are you sure you want to exit during this export?": "Haluatko varmasti poistua tämän viennin aikana?",
     "File Attached": "Tiedosto liitetty",
-    "Topic: %(topic)s": "Aihe: %(topic)s"
+    "Topic: %(topic)s": "Aihe: %(topic)s",
+    "%(deviceId)s from %(ip)s": "%(deviceId)s osoitteesta %(ip)s",
+    "Searching through encrypted messages is unavailable": "Salattujen viestien etsiminen ei ole käytettävissä",
+    "Searching through encrypted files is unavailable": "Salattujen tiedostojen etsiminen ei ole käytettävissä"
 }

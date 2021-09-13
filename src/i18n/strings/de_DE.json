@@ -3155,5 +3155,8 @@
     "Upgrade anyway": "Trotzdem upgraden",
     "This room is in some spaces you’re not an admin of. In those spaces, the old room will still be shown, but people will be prompted to join the new one.": "Dieser Raum ist in einigen Spaces, in denen du nicht Admin bist. Daher wird dort noch der alte Raum angezeigt, die Leute werden aber auf den neuen Raum hingewiesen.",
     "Before you upgrade": "Bevor du upgradest",
-    "You can also make Spaces from <a>communities</a>.": "Du kannst Spaces auch aus <a>Communities</a> erstellen."
+    "You can also make Spaces from <a>communities</a>.": "Du kannst Spaces auch aus <a>Communities</a> erstellen.",
+    "This user is displaying illegal behaviour, for instance by doxing people or threatening violence.\nThis will be reported to the room moderators who may escalate this to legal authorities.": "Diese Person zeigt illegales Verhalten, beispielsweise das Leaken persönlicher Daten oder Gewaltdrohungen.\nDies wird an die Raummoderation gemeldet, welche dies an die Justiz weitergeben kann.",
+    "Searching through encrypted messages is unavailable": "Das Durchsuchen verschlüsselter Nachrichten ist nicht verfügbar",
+    "Searching through encrypted files is unavailable": "Das Durchsuchen verschlüsselter Dateien ist nicht verfügbar"
 }

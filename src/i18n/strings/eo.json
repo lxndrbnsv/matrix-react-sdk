@@ -3156,5 +3156,8 @@
     "<b>It's not recommended to make encrypted rooms public.</b> It will mean anyone can find and join the room, so anyone can read messages. You'll get none of the benefits of encryption. Encrypting messages in a public room will make receiving and sending messages slower.": "<b>Publikigo de ĉifrataj ĉambroj estas malrekomendata.</b> Ĝi implicas, ke ĉiu povos trovi la ĉambron kaj aliĝi al ĝi, kaj ĉiu do povos legi mesaĝojn. Vi havos neniujn avantaĝojn de ĉifrado. Ĉifrado de mesaĝoj en publika ĉambro malrapidigos iliajn ricevadon kaj sendadon.",
     "Are you sure you want to make this encrypted room public?": "Ĉu vi certas, ke vi volas publikigi ĉi tiun ĉifratan ĉambron?",
     "Unknown failure": "Nekonata malsukceso",
-    "Failed to update the join rules": "Malsukcesis ĝisdatigi regulojn pri aliĝo"
+    "Failed to update the join rules": "Malsukcesis ĝisdatigi regulojn pri aliĝo",
+    "User Busy": "Uzanto estas okupata",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

@@ -147,5 +147,12 @@
     "Every page you use in the app": "ఆప్ లో మీరు వాడే ప్రతి పేజి",
     "e.g. <CurrentPageURL>": "ఉ.దా. <CurrentPageURL>",
     "Call Failed": "కాల్ విఫలమయింది",
-    "VoIP is unsupported": "కాల్ చేయుట ఈ పరికరం పోషించలేదు"
+    "VoIP is unsupported": "కాల్ చేయుట ఈ పరికరం పోషించలేదు",
+    "The remote side failed to pick up": "అటు వైపు ఎత్తలేకపోయారు",
+    "Unable to capture screen": "తెరని చూపలేకపోతున్నారు",
+    "Existing Call": "నజుస్తున్న కాల్",
+    "VoIP is unsupported": "కాల్ చేయుట ఈ పరికరం పోషించలేదు",
+    "Call in Progress": "నడుస్తున్న కాల్",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

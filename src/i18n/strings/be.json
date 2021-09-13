@@ -34,5 +34,9 @@
     "Remove %(name)s from the directory?": "Выдаліць %(name)s з каталога?",
     "Source URL": "URL-адрас крыніцы",
     "Room not found": "Пакой не знойдзены",
-    "The server may be unavailable or overloaded": "Сервер можа быць недаступны ці перагружаны"
+    "The server may be unavailable or overloaded": "Сервер можа быць недаступны ці перагружаны",
+    "Notify for all other messages/rooms": "Апавяшчаць для ўсіх іншых паведамленняў/пакояў",
+    "The server may be unavailable or overloaded": "Сервер можа быць недаступны ці перагружаны",
+    "Searching through encrypted messages is unavailable": "Пошук праз зашыфраваныя паведамленні недаступны",
+    "Searching through encrypted files is unavailable": "Пошук па зашыфраваных файлах недаступны"
 }

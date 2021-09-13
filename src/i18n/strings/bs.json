@@ -3,5 +3,8 @@
     "Create Account": "Otvori račun",
     "Sign In": "Prijavite se",
     "Explore rooms": "Istražite sobe",
-    "Identity server": "Identifikacioni Server"
+    "Identity server": "Identifikacioni Server",
+    "Explore rooms": "Istražite sobe",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

@@ -470,5 +470,7 @@
     "Download %(text)s": "nu kibycpa la'o zoi. %(text)s .zoi",
     "Explore rooms": "nu facki le du'u ve zilbe'i",
     "Create Account": "nu pa re'u co'a jaspu",
-    "Dismiss": "nu mipri"
+    "Dismiss": "nu mipri",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

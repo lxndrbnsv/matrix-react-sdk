@@ -2574,5 +2574,8 @@
     "Identity server URL must be HTTPS": "הזיהוי של כתובת השרת חייבת להיות מאובטחת ב- HTTPS",
     "Enter Security Phrase": "הזן ביטוי אבטחה",
     "Backup could not be decrypted with this Security Phrase: please verify that you entered the correct Security Phrase.": "לא ניתן לפענח גיבוי עם ביטוי אבטחה זה: אנא ודא שהזנת את ביטוי האבטחה הנכון.",
-    "Incorrect Security Phrase": "ביטוי אבטחה שגוי"
+    "Incorrect Security Phrase": "ביטוי אבטחה שגוי",
+    "We couldn't log you in": "לא הצלחנו להתחבר אליך",
+    "Searching through encrypted messages is unavailable": "חיפוש בהודעות מוצפנות אינו זמין",
+    "Searching through encrypted files is unavailable": "חיפוש בקבצים מוצפנים אינו זמין"
 }

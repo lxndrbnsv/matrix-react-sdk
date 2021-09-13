@@ -633,5 +633,8 @@
     "Welcome to <name/>": "Velkomin til <name/>",
     "Welcome to %(appName)s": "Velkomin til %(appName)s",
     "Identity server is": "Auðkennisþjónn er",
-    "Identity server": "Auðkennisþjónn"
+    "Identity server": "Auðkennisþjónn",
+    "Welcome to %(appName)s": "Velkomin til %(appName)s",
+    "Searching through encrypted messages is unavailable": "Ekki er hægt að leita í dulkóðuðum skilaboðum",
+    "Searching through encrypted files is unavailable": "Ekki er hægt að leita í gegnum dulkóðuðu skrárnar"
 }

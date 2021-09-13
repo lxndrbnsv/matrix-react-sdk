@@ -665,5 +665,12 @@
     "Confirm adding email": "Konfirmasi penambahan email",
     "Single Sign On": "Single Sign On",
     "Confirm adding this email address by using Single Sign On to prove your identity.": "Konfirmasi penambahan alamat email ini dengan menggunakan Single Sign On untuk membuktikan identitas Anda.",
-    "Use Single Sign On to continue": "Gunakan Single Sign On untuk melanjutkan"
+    "Use Single Sign On to continue": "Gunakan Single Sign On untuk melanjutkan",
+    "Call in Progress": "Panggilan Berlangsung",
+    "A call is currently being placed!": "Sedang melakukan panggilan sekarang!",
+    "A call is already in progress!": "Masih ada panggilan berlangsung!",
+    "Permission Required": "Permisi Dibutuhkan",
+    "You do not have permission to start a conference call in this room": "Anda tidak memiliki permisi untuk memulai panggilan massal di ruang ini",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

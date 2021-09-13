@@ -3249,5 +3249,8 @@
     "%(count)s reply|other": "%(count)s válasz",
     "View in room": "Megjelenítés szobában",
     "Enter your Security Phrase or <button>use your Security Key</button> to continue.": "Add meg a Biztonsági jelmondatot vagy <button>használd a Biztonsági Kulcsot</button> a folytatáshoz.",
-    "What projects are your team working on?": "Milyen projekteken dolgozik a csoportja?"
+    "What projects are your team working on?": "Milyen projekteken dolgozik a csoportja?",
+    "Sound on": "Hang be",
+    "Searching through encrypted messages is unavailable": "A titkosított üzenetekben való keresés nem érhető el",
+    "Searching through encrypted files is unavailable": "A titkosított fájlokban való keresés nem érhető el"
 }
