@@ -1376,5 +1376,7 @@
     "Identity Server": "Identitetstenar",
     "Email Address": "E-postadresse",
     "Go Back": "Gå attende",
-    "Notification settings": "Varslingsinnstillingar"
+    "Notification settings": "Varslingsinnstillingar",
+    "Searching through encrypted messages is unavailable": "Søk gjennom krypterte meldinger er ikke tilgjengelig",
+    "Searching through encrypted files is unavailable": "Søke gjennom krypterte filer er utilgjengelig"
 }

@@ -3400,5 +3400,7 @@
     "Some invites couldn't be sent": "Některé pozvánky nebylo možné odeslat",
     "We sent the others, but the below people couldn't be invited to <RoomName/>": "Poslali jsme ostatním, ale níže uvedení lidé nemohli být pozváni do <RoomName/>",
     "Visibility": "Viditelnost",
-    "Address": "Adresa"
+    "Address": "Adresa",
+    "Searching through encrypted messages is unavailable": "Vyhledávání v šifrovaných zprávách není k dispozici",
+    "Searching through encrypted files is unavailable": "Vyhledávání v šifrovaných souborech není k dispozici"
 }

@@ -3484,5 +3484,7 @@
     "%(targetName)s accepted an invitation": "%(targetName)s 接受了邀請",
     "%(targetName)s accepted the invitation for %(displayName)s": "%(targetName)s 已接受 %(displayName)s 的邀請",
     "Some invites couldn't be sent": "部份邀請無法傳送",
-    "We sent the others, but the below people couldn't be invited to <RoomName/>": "我們已將邀請傳送給其他人，但以下的人無法邀請至 <RoomName/>"
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "我們已將邀請傳送給其他人，但以下的人無法邀請至 <RoomName/>",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

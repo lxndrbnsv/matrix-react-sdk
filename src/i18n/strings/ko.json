@@ -1667,5 +1667,7 @@
     "The signing key you provided matches the signing key you received from %(userId)s's session %(deviceId)s. Session marked as verified.": "사용자 %(userId)s의 세션 %(deviceId)s에서 받은 서명 키와 당신이 제공한 서명 키가 일치합니다. 세션이 검증되었습니다.",
     "Show more": "더 보기",
     "Changing password will currently reset any end-to-end encryption keys on all sessions, making encrypted chat history unreadable, unless you first export your room keys and re-import them afterwards. In future this will be improved.": "비밀번호를 변경한다면 방의 암호화 키를 내보낸 후 다시 가져오지 않는 이상 모든 종단간 암호화 키는 초기화 될 것이고, 암호화된 대화 내역은 읽을 수 없게 될 것입니다. 이 문제는 추후에 개선될 것입니다.",
-    "Create Account": "계정 만들기"
+    "Create Account": "계정 만들기",
+    "Searching through encrypted messages is unavailable": "암호화된 메시지를 통해 검색할 수 없습니다.",
+    "Searching through encrypted files is unavailable": "암호화된 파일 검색 불가"
 }

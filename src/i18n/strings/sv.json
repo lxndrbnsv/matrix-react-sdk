@@ -3356,5 +3356,7 @@
     "We sent the others, but the below people couldn't be invited to <RoomName/>": "Vi skickade de andra, men personerna nedan kunde inte bjudas in till <RoomName/>",
     "What this user is writing is wrong.\nThis will be reported to the room moderators.": "Vad användaren skriver är fel.\nDet här kommer att anmälas till rumsmoderatorerna.",
     "Report to moderators prototype. In rooms that support moderation, the `report` button will let you report abuse to room moderators": "Prototyp av anmälan till moderatorer. I rum som söder moderering så kommer `anmäl`-knappen att låta dig anmäla olämpligt beteende till rummets moderatorer",
-    "Report": "Rapportera"
+    "Report": "Rapportera",
+    "Searching through encrypted messages is unavailable": "Att söka igenom krypterade meddelanden är inte tillgängligt",
+    "Searching through encrypted files is unavailable": "Att söka igenom krypterade filer är inte tillgängligt"
 }

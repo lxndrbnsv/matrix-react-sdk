@@ -953,5 +953,7 @@
     "Unable to access microphone": "No s'ha pogut accedir al micròfon",
     "Explore rooms": "Explora sales",
     "%(oneUser)smade no changes %(count)s times|one": "%(oneUser)sno ha fet canvis",
-    "%(oneUser)smade no changes %(count)s times|other": "%(oneUser)sno ha fet canvis %(count)s cops"
+    "%(oneUser)smade no changes %(count)s times|other": "%(oneUser)sno ha fet canvis %(count)s cops",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

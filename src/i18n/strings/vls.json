@@ -1445,5 +1445,7 @@
     "Remove %(email)s?": "%(email)s verwydern?",
     "Remove %(phone)s?": "%(phone)s verwydern?",
     "Explore rooms": "Gesprekkn ountdekkn",
-    "Create Account": "Account anmoakn"
+    "Create Account": "Account anmoakn",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

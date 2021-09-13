@@ -666,5 +666,7 @@
     "Add some details to help people recognise it.": "Add some details to help people recognize it.",
     "Unrecognised room address:": "Unrecognized room address:",
     "A private space to organise your rooms": "A private space to organize your rooms",
-    "Message search initialisation failed": "Message search initialization failed"
+    "Message search initialisation failed": "Message search initialization failed",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

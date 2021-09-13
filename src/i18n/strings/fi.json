@@ -3003,5 +3003,7 @@
     "Allow Peer-to-Peer for 1:1 calls (if you enable this, the other party might be able to see your IP address)": "Salli vertaisyhteydet 1:1-puheluille (jos otat tämän käyttöön, toinen osapuoli saattaa nähdä IP-osoitteesi)",
     "Send and receive voice messages": "Lähetä ja vastaanota ääniviestejä",
     "Show options to enable 'Do not disturb' mode": "Näytä asetukset Älä häiritse -tilan ottamiseksi käyttöön",
-    "%(deviceId)s from %(ip)s": "%(deviceId)s osoitteesta %(ip)s"
+    "%(deviceId)s from %(ip)s": "%(deviceId)s osoitteesta %(ip)s",
+    "Searching through encrypted messages is unavailable": "Salattujen viestien etsiminen ei ole käytettävissä",
+    "Searching through encrypted files is unavailable": "Salattujen tiedostojen etsiminen ei ole käytettävissä"
 }

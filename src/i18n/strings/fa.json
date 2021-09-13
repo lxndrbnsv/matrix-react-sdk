@@ -3007,5 +3007,7 @@
     "This won't invite them to %(communityName)s. To invite someone to %(communityName)s, click <a>here</a>": "این کار آنها را به %(communityName)s دعوت نمی‌کند. برای دعوت افراد به %(communityName)s،<a>اینجا</a> کلیک کنید",
     "Start a conversation with someone using their name or username (like <userId/>).": "با استفاده از نام یا نام کاربری (مانند <userId/>)، گفتگوی جدیدی را با دیگران شروع کنید.",
     "Start a conversation with someone using their name, email address or username (like <userId/>).": "با استفاده از نام، آدرس ایمیل و یا نام کاربری (مانند <userId/>)، یک گفتگوی جدید را شروع کنید.",
-    "May include members not in %(communityName)s": "ممکن شامل اعضایی که در %(communityName)s نیستند نیز شود"
+    "May include members not in %(communityName)s": "ممکن شامل اعضایی که در %(communityName)s نیستند نیز شود",
+    "Searching through encrypted messages is unavailable": "جستجو از طریق پیام های رمزگذاری شده در دسترس نیست",
+    "Searching through encrypted files is unavailable": "جستجو از طریق فایل های رمزگذاری شده در دسترس نیست"
 }

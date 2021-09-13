@@ -2,5 +2,7 @@
     "Dismiss": "Odbaci",
     "Create Account": "Otvori račun",
     "Sign In": "Prijavite se",
-    "Explore rooms": "Istražite sobe"
+    "Explore rooms": "Istražite sobe",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

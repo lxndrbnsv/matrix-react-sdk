@@ -3219,5 +3219,7 @@
     "Send and receive voice messages": "Отправлять и получать голосовые сообщения",
     "%(deviceId)s from %(ip)s": "%(deviceId)s с %(ip)s",
     "The user you called is busy.": "Вызываемый пользователь занят.",
-    "User Busy": "Пользователь занят"
+    "User Busy": "Пользователь занят",
+    "Searching through encrypted messages is unavailable": "Поиск по зашифрованным сообщениям недоступен",
+    "Searching through encrypted files is unavailable": "Поиск по зашифрованным файлам недоступен"
 }

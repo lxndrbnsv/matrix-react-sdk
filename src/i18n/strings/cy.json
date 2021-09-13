@@ -11,5 +11,7 @@
     "Sign In": "Mewngofnodi",
     "Create Account": "Creu Cyfrif",
     "Dismiss": "Wfftio",
-    "Explore rooms": "Archwilio Ystafelloedd"
+    "Explore rooms": "Archwilio Ystafelloedd",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

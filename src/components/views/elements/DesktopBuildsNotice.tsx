@@ -55,17 +55,16 @@ export default function DesktopBuildsNotice({ isRoomEncrypted, kind }: IProps) {
     const { desktopBuilds, brand } = SdkConfig.get();
 
     let text = null;
-    let logo = null;
+    const logo = null;
     if (desktopBuilds.available) {
-        logo = <img src={desktopBuilds.logo} />;
         switch (kind) {
             case WarningKind.Files:
-                text = _t("Use the <a>Desktop app</a> to see all encrypted files", {}, {
+                text = _t("Searching through encrypted files is unavailable", {}, {
                     a: sub => (<a href={desktopBuilds.url} target="_blank" rel="noreferrer noopener">{sub}</a>),
                 });
                 break;
             case WarningKind.Search:
-                text = _t("Use the <a>Desktop app</a> to search encrypted messages", {}, {
+                text = _t("Searching through encrypted messages is unavailable", {}, {
                     a: sub => (<a href={desktopBuilds.url} target="_blank" rel="noreferrer noopener">{sub}</a>),
                 });
                 break;

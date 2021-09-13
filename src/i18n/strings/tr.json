@@ -2544,5 +2544,7 @@
     "We couldn't log you in": "Sizin girişinizi yapamadık",
     "You're already in a call with this person.": "Bu kişi ile halihazırda çağrıdasınız.",
     "The user you called is busy.": "Aradığınız kullanıcı meşgul.",
-    "User Busy": "Kullanıcı Meşgul"
+    "User Busy": "Kullanıcı Meşgul",
+    "Searching through encrypted messages is unavailable": "Şifreli mesajlarda arama yapılamaz",
+    "Searching through encrypted files is unavailable": "Şifreli dosyalar arasında arama kullanılamaz"
 }

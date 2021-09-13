@@ -658,5 +658,7 @@
     "No other application is using the webcam": "Ingen anden application bruger kameraet",
     "A microphone and webcam are plugged in and set up correctly": "En mikrofon og kamera er tilsluttet og sat op rigtigt",
     "Croatia": "Kroatien",
-    "Answered Elsewhere": "Svaret andet sted"
+    "Answered Elsewhere": "Svaret andet sted",
+    "Searching through encrypted messages is unavailable": "Søgning gennem krypterede meddelelser er ikke tilgængelig",
+    "Searching through encrypted files is unavailable": "Søgning gennem krypterede filer er ikke tilgængelig"
 }

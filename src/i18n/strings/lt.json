@@ -2421,5 +2421,7 @@
     "New Zealand": "Naujoji Zelandija",
     "New Caledonia": "Naujoji Kaledonija",
     "Netherlands": "Nyderlandai",
-    "Cayman Islands": "Kaimanų Salos"
+    "Cayman Islands": "Kaimanų Salos",
+    "Searching through encrypted messages is unavailable": "Ieškoti per užšifruotus pranešimus negalima",
+    "Searching through encrypted files is unavailable": "Ieškoti per užšifruotus failus negalima"
 }

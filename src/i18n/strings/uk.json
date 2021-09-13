@@ -1630,5 +1630,7 @@
     "Send text messages as you in this room": "Надіслати текстові повідомлення у цю кімнату від свого імені",
     "Send messages as you in your active room": "Надіслати повідомлення у свою активну кімнату від свого імені",
     "Send messages as you in this room": "Надіслати повідомлення у цю кімнату від свого імені",
-    "Sends the given message as a spoiler": "Надсилає вказане повідомлення згорненим"
+    "Sends the given message as a spoiler": "Надсилає вказане повідомлення згорненим",
+    "Searching through encrypted messages is unavailable": "Пошук за зашифрованими повідомленнями недоступний",
+    "Searching through encrypted files is unavailable": "Пошук у зашифрованих файлах недоступний"
 }

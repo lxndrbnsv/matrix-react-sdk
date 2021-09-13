@@ -152,5 +152,7 @@
     "Usage": "Asemres",
     "Feb": "Bṛa",
     "Jan": "Yen",
-    "Continue": "Kemmel"
+    "Continue": "Kemmel",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

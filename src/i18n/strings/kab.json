@@ -2754,5 +2754,7 @@
     "(an error occurred)": "(tella-d tuccḍa)",
     "(connection failed)": "(tuqqna ur teddi ara)",
     "🎉 All servers are banned from participating! This room can no longer be used.": "🎉 Iqeddcen akk ttwagedlen seg uttekki! Taxxamt-a dayen ur tettuseqdac ara.",
-    "Try again": "Ɛreḍ tikkelt-nniḍen"
+    "Try again": "Ɛreḍ tikkelt-nniḍen",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

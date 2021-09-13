@@ -3398,5 +3398,7 @@
     "If you have permissions, open the menu on any message and select <b>Pin</b> to stick them here.": "Se tes permisos, abre o menú en calquera mensaxe e elixe <b>Fixar</b> para pegalos aquí.",
     "Nothing pinned, yet": "Nada fixado, por agora",
     "End-to-end encryption isn't enabled": "Non está activado o cifrado de extremo-a-extremo",
-    "Your private messages are normally encrypted, but this room isn't. Usually this is due to an unsupported device or method being used, like email invites. <a>Enable encryption in settings.</a>": "As túas mensaxes privadas normalmente están cifradas, pero esta sala non. Habitualmente esto é debido a que se utiliza un dispositivo ou métodos no soportados, como convites por email. <a>Activa o cifrado nos axustes.</a>"
+    "Your private messages are normally encrypted, but this room isn't. Usually this is due to an unsupported device or method being used, like email invites. <a>Enable encryption in settings.</a>": "As túas mensaxes privadas normalmente están cifradas, pero esta sala non. Habitualmente esto é debido a que se utiliza un dispositivo ou métodos no soportados, como convites por email. <a>Activa o cifrado nos axustes.</a>",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

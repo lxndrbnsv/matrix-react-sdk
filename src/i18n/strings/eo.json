@@ -3326,5 +3326,7 @@
     "Try different words or check for typos. Some results may not be visible as they're private and you need an invite to join them.": "Provu aliajn vortojn aŭ kontorolu, ĉu vi ne tajperaris. Iuj rezultoj eble ne videblos, ĉar ili estas privataj kaj vi bezonus inviton por aliĝi.",
     "No results for \"%(query)s\"": "Neniuj rezultoj por «%(query)s»",
     "The user you called is busy.": "La uzanto, kiun vi vokis, estas okupata.",
-    "User Busy": "Uzanto estas okupata"
+    "User Busy": "Uzanto estas okupata",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

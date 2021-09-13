@@ -57,5 +57,7 @@
     "An error occurred whilst saving your email notification preferences.": "Адбылася памылка падчас захавання налады апавяшчэнняў па электроннай пошце.",
     "Room not found": "Пакой не знойдзены",
     "Notify for all other messages/rooms": "Апавяшчаць для ўсіх іншых паведамленняў/пакояў",
-    "The server may be unavailable or overloaded": "Сервер можа быць недаступны ці перагружаны"
+    "The server may be unavailable or overloaded": "Сервер можа быць недаступны ці перагружаны",
+    "Searching through encrypted messages is unavailable": "Пошук праз зашыфраваныя паведамленні недаступны",
+    "Searching through encrypted files is unavailable": "Пошук па зашыфраваных файлах недаступны"
 }

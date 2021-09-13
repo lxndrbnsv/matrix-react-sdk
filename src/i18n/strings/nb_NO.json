@@ -1981,5 +1981,7 @@
     "Costa Rica": "Costa Rica",
     "Cook Islands": "Cook-øyene",
     "All keys backed up": "Alle nøkler er sikkerhetskopiert",
-    "Secret storage:": "Hemmelig lagring:"
+    "Secret storage:": "Hemmelig lagring:",
+    "Searching through encrypted messages is unavailable": "Søk gjennom krypterte meldinger er ikke tilgjengelig",
+    "Searching through encrypted files is unavailable": "Å søke gjennom krypterte filer er ikke tilgjengelig"
 }

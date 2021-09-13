@@ -342,5 +342,7 @@
     "Confirm adding email": "Xác nhận việc thêm email",
     "Add Phone Number": "Thêm Số Điện Thoại",
     "Click the button below to confirm adding this phone number.": "Nhấn vào nút dưới đây để xác nhận việc thêm số điện thoại này.",
-    "Confirm": "Xác nhận"
+    "Confirm": "Xác nhận",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

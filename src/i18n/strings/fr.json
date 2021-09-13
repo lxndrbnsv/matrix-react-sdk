@@ -3456,5 +3456,7 @@
     "%(targetName)s accepted an invitation": "%(targetName)s a accepté une invitation",
     "%(targetName)s accepted the invitation for %(displayName)s": "%(targetName)s a accepté l’invitation pour %(displayName)s",
     "Some invites couldn't be sent": "Certaines invitations n’ont pas pu être envoyées",
-    "We sent the others, but the below people couldn't be invited to <RoomName/>": "Nous avons envoyé les invitations, mais les personnes ci-dessous n’ont pas pu être invitées à rejoindre <RoomName/>"
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "Nous avons envoyé les invitations, mais les personnes ci-dessous n’ont pas pu être invitées à rejoindre <RoomName/>",
+    "Searching through encrypted messages is unavailable": "La recherche dans les messages cryptés n'est pas disponible",
+    "Searching through encrypted files is unavailable": "La recherche dans les fichiers cryptés n'est pas disponible"
 }

@@ -29,5 +29,7 @@
     "Use default": "Uporabi privzeto",
     "Change": "Sprememba",
     "Explore rooms": "Raziščite sobe",
-    "Create Account": "Registracija"
+    "Create Account": "Registracija",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

@@ -3468,5 +3468,7 @@
     "%(targetName)s accepted an invitation": "%(targetName)s pranoi një ftesë",
     "%(targetName)s accepted the invitation for %(displayName)s": "%(targetName)s pranoi ftesën për %(displayName)s",
     "Some invites couldn't be sent": "S’u dërguan dot disa nga ftesat",
-    "We sent the others, but the below people couldn't be invited to <RoomName/>": "I dërguam të tjerat, por personat më poshtë s’u ftuan dot te <RoomName/>"
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "I dërguam të tjerat, por personat më poshtë s’u ftuan dot te <RoomName/>",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

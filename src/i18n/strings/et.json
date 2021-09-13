@@ -3450,5 +3450,7 @@
     "This user is spamming the room with ads, links to ads or to propaganda.\nThis will be reported to the room moderators.": "See kasutaja spämmib jututuba reklaamidega, reklaamlinkidega või propagandaga.\nJututoa moderaatorid saavad selle kohta teate.",
     "This user is displaying toxic behaviour, for instance by insulting other users or sharing  adult-only content in a family-friendly room  or otherwise violating the rules of this room.\nThis will be reported to the room moderators.": "Selle kasutaja tegevus on äärmiselt ebasobilik, milleks võib olla teiste jututoas osalejate solvamine, peresõbralikku jututuppa täiskasvanutele mõeldud sisu lisamine või muul viisil jututoa reeglite rikkumine.\nJututoa moderaatorid saavad selle kohta teate.",
     "Please provide an address": "Palun sisesta aadress",
-    "Report to moderators prototype. In rooms that support moderation, the `report` button will let you report abuse to room moderators": "Meie esimene katsetus modereerimisega. Kui jututoas on modereerimine toetatud, siis „Teata moderaatorile“ nupust võid saada teate ebasobiliku sisu kohta"
+    "Report to moderators prototype. In rooms that support moderation, the `report` button will let you report abuse to room moderators": "Meie esimene katsetus modereerimisega. Kui jututoas on modereerimine toetatud, siis „Teata moderaatorile“ nupust võid saada teate ebasobiliku sisu kohta",
+    "Searching through encrypted messages is unavailable": "Krüptitud sõnumite kaudu otsimine pole saadaval",
+    "Searching through encrypted files is unavailable": "Krüptitud failidest otsimine pole saadaval"
 }

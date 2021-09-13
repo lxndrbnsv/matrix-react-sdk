@@ -205,5 +205,7 @@
     "Add Email Address": "Dodaj email adresu",
     "Confirm": "Potvrdi",
     "Click the button below to confirm adding this email address.": "Kliknite gumb ispod da biste potvrdili dodavanje ove email adrese.",
-    "Confirm adding email": "Potvrdite dodavanje email adrese"
+    "Confirm adding email": "Potvrdite dodavanje email adrese",
+    "Searching through encrypted messages is unavailable": "Pretraživanje šifriranih poruka nije dostupno",
+    "Searching through encrypted files is unavailable": "Pretraživanje šifriranih datoteka nije dostupno"
 }

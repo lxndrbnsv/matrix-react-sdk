@@ -2504,5 +2504,7 @@
     "You can change these anytime.": "ここで入力した情報はいつでも編集できます。",
     "Add some details to help people recognise it.": "情報を入力してください。",
     "View dev tools": "開発者ツールを表示",
-    "To view %(spaceName)s, you need an invite": "%(spaceName)s を閲覧するには招待が必要です"
+    "To view %(spaceName)s, you need an invite": "%(spaceName)s を閲覧するには招待が必要です",
+    "Searching through encrypted messages is unavailable": "暗号化されたメッセージを検索することはできません",
+    "Searching through encrypted files is unavailable": "暗号化されたファイルを検索することはできません"
 }

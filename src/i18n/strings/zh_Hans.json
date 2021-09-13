@@ -3383,5 +3383,7 @@
     "%(targetName)s accepted an invitation": "%(targetName)s 已接受邀请",
     "%(targetName)s accepted the invitation for %(displayName)s": "%(targetName)s 已接受 %(displayName)s 的邀请",
     "Some invites couldn't be sent": "部分邀请无法送达",
-    "We sent the others, but the below people couldn't be invited to <RoomName/>": "我们已向其他人发送邀请，除了以下无法邀请至 <RoomName/> 的人"
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "我们已向其他人发送邀请，除了以下无法邀请至 <RoomName/> 的人",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

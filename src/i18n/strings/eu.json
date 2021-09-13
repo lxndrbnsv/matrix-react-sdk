@@ -2293,5 +2293,7 @@
     "Wrong file type": "Okerreko fitxategi-mota",
     "Looks good!": "Itxura ona du!",
     "Search rooms": "Bilatu gelak",
-    "User menu": "Erabiltzailea-menua"
+    "User menu": "Erabiltzailea-menua",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

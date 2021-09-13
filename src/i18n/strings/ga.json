@@ -671,5 +671,7 @@
     "Signed Out": "Sínithe Amach",
     "Unable to query for supported registration methods.": "Ní féidir iarratas a dhéanamh faoi modhanna cláraithe tacaithe.",
     "Host account on": "Óstáil cuntas ar",
-    "Create account": "Déan cuntas a chruthú"
+    "Create account": "Déan cuntas a chruthú",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

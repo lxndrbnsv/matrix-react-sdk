@@ -3043,5 +3043,7 @@
     "Enter": "Enter",
     "Space": "Space",
     "End": "End",
-    "[number]": "[number]"
+    "[number]": "[number]",
+    "Searching through encrypted messages is unavailable": "Searching through encrypted messages is unavailable",
+    "Searching through encrypted files is unavailable": "Searching through encrypted files is unavailable"
 }

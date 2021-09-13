@@ -1582,5 +1582,7 @@
     "Upload files": "Failu augšupielāde",
     "These files are <b>too large</b> to upload. The file size limit is %(limit)s.": "Šie faili <b>pārsniedz</b> augšupielādes izmēra limitu %(limit)s.",
     "Upload files (%(current)s of %(total)s)": "Failu augšupielāde (%(current)s no %(total)s)",
-    "Check your devices": "Pārskatiet savas ierīces"
+    "Check your devices": "Pārskatiet savas ierīces",
+    "Searching through encrypted messages is unavailable": "Meklēšana, izmantojot šifrētus ziņojumus, nav pieejama",
+    "Searching through encrypted files is unavailable": "Meklēšana, izmantojot šifrētus failus, nav pieejama"
 }

@@ -3369,5 +3369,7 @@
     "%(targetName)s accepted an invitation": "%(targetName)s accepteerde de uitnodiging",
     "%(targetName)s accepted the invitation for %(displayName)s": "%(targetName)s accepteerde de uitnodiging voor %(displayName)s",
     "Some invites couldn't be sent": "Sommige uitnodigingen konden niet verstuurd worden",
-    "We sent the others, but the below people couldn't be invited to <RoomName/>": "De anderen zijn verstuurd, maar de volgende mensen konden niet worden uitgenodigd voor <RoomName/>"
+    "We sent the others, but the below people couldn't be invited to <RoomName/>": "De anderen zijn verstuurd, maar de volgende mensen konden niet worden uitgenodigd voor <RoomName/>",
+    "Searching through encrypted messages is unavailable": "Zoeken in versleutelde berichten is niet beschikbaar",
+    "Searching through encrypted files is unavailable": "Zoeken in versleutelde bestanden is niet beschikbaar"
 }

@@ -572,5 +572,7 @@
     "Your user agent": "O seu user agent",
     "Explore rooms": "Explorar rooms",
     "Sign In": "Iniciar sessão",
-    "Create Account": "Criar conta"
+    "Create Account": "Criar conta",
+    "Searching through encrypted messages is unavailable": "A pesquisa de mensagens criptografadas não está disponível",
+    "Searching through encrypted files is unavailable": "A pesquisa em arquivos criptografados não está disponível"
 }

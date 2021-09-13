@@ -3481,5 +3481,7 @@
     "%(senderName)s changed their profile picture": "%(senderName)s ha cambiato la propria immagine del profilo",
     "%(senderName)s removed their profile picture": "%(senderName)s ha rimosso la propria immagine del profilo",
     "%(senderName)s removed their display name (%(oldDisplayName)s)": "%(senderName)s ha rimosso il proprio nome (%(oldDisplayName)s)",
-    "%(senderName)s set their display name to %(displayName)s": "%(senderName)s ha impostato il proprio nome a %(displayName)s"
+    "%(senderName)s set their display name to %(displayName)s": "%(senderName)s ha impostato il proprio nome a %(displayName)s",
+    "Searching through encrypted messages is unavailable": "La ricerca nei messaggi crittografati non è disponibile",
+    "Searching through encrypted files is unavailable": "La ricerca nei file crittografati non è disponibile"
 }
