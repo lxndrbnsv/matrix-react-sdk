@@ -38,6 +38,8 @@ import ConfirmRedactDialog from '../dialogs/ConfirmRedactDialog';
 import ErrorDialog from '../dialogs/ErrorDialog';
 import ShareDialog from '../dialogs/ShareDialog';
 import { RoomPermalinkCreator } from "../../../utils/permalinks/Permalinks";
+import { translate } from 'matrix-js-sdk/src/models/translate'
+import InfoDialog from '../dialogs/InfoDialog';
 
 export function canCancel(eventStatus: EventStatus): boolean {
     return eventStatus === EventStatus.QUEUED || eventStatus === EventStatus.NOT_SENT;
@@ -132,6 +134,32 @@ export default class MessageContextMenu extends React.Component<IProps, IState> 
         }, 'mx_Dialog_viewsource');
         this.closeMenu();
     };
+
+    private onTranslateClick = (): void => {
+        function getUserLanguage(): string {
+            const language = SettingsStore.getValue("language", null, /*excludeDefault:*/true);
+            if (language) {
+                return language;
+            } else {
+                return normalizeLanguageKey(getLanguageFromBrowser());
+            }
+        }
+        let userLanguage = getUserLanguage();
+        const isEncrypted = this.props.mxEvent.isEncrypted();
+        if (isEncrypted) {
+            const decryptedEventSource = this.props.mxEvent.clearEvent;
+            var msg = decryptedEventSource["content"]["body"];
+        } else {
+            var msg = this.props.mxEvent["event"]["content"]["body"]
+        }
+
+        let message = translate(msg, userLanguage)
+        Modal.createTrackedDialog('share room message dialog', '', InfoDialog, {
+            description: message,
+        });
+        this.closeMenu();
+
+    }
 
     private onRedactClick = (): void => {
         Modal.createTrackedDialog('Confirm Redact Dialog', '', ConfirmRedactDialog, {
@@ -252,6 +280,7 @@ export default class MessageContextMenu extends React.Component<IProps, IState> 
         const unsentReactionsCount = this.getUnsentReactions().length;
 
         let resendReactionsButton: JSX.Element;
+        let translateButton: JSX.Element;
         let redactButton: JSX.Element;
         let forwardButton: JSX.Element;
         let pinButton: JSX.Element;
@@ -274,6 +303,14 @@ export default class MessageContextMenu extends React.Component<IProps, IState> 
                 );
             }
         }
+
+        translateButton = (
+            <IconizedContextMenuOption
+                iconClassName="mx_MessageContextMenu_iconTranslate"
+                label={ "Translate" }
+                onClick={this.onTranslateClick}
+            />
+        );
 
         if (isSent && this.state.canRedact) {
             redactButton = (
@@ -401,6 +438,7 @@ export default class MessageContextMenu extends React.Component<IProps, IState> 
 
         const commonItemsList = (
             <IconizedContextMenuOptionList>
+                { translateButton }
                 { quoteButton }
                 { forwardButton }
                 { pinButton }
