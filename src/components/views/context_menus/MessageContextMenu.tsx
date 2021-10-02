@@ -21,7 +21,7 @@ import { EventType, RelationType } from "matrix-js-sdk/src/@types/event";
 
 import { MatrixClientPeg } from '../../../MatrixClientPeg';
 import dis from '../../../dispatcher/dispatcher';
-import { _t } from '../../../languageHandler';
+import {_t, normalizeLanguageKey} from '../../../languageHandler';
 import Modal from '../../../Modal';
 import Resend from '../../../Resend';
 import SettingsStore from '../../../settings/SettingsStore';
@@ -134,7 +134,6 @@ export default class MessageContextMenu extends React.Component<IProps, IState> 
         }, 'mx_Dialog_viewsource');
         this.closeMenu();
     };
-
     private onTranslateClick = (): void => {
         function getUserLanguage(): string {
             const language = SettingsStore.getValue("language", null, /*excludeDefault:*/true);
