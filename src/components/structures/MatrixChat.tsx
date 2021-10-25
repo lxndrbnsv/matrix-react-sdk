@@ -1897,7 +1897,7 @@ export default class MatrixChat extends React.PureComponent<IProps, IState> {
     }
 
     onRegisterClick = () => {
-        this.showScreen("register");
+        location.href = "https://qaim.me/auth?returl=" + location.href;
     };
 
     onLoginClick = () => {
@@ -1905,7 +1905,7 @@ export default class MatrixChat extends React.PureComponent<IProps, IState> {
     };
 
     onForgotPasswordClick = () => {
-        this.showScreen("forgot_password");
+        location.href="https://qaim.me/auth?reset&returl=" + location.href;
     };
 
     onRegisterFlowComplete = (credentials: IMatrixClientCreds, password: string) => {
