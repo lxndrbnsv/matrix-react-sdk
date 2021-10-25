@@ -476,6 +476,18 @@ export default class GeneralUserSettingsTab extends React.Component<IProps, ISta
             </>;
         }
 
+        // return (
+        //     <div className="mx_SettingsTab">
+        //         <div className="mx_SettingsTab_heading">{ _t("General") }</div>
+        //         { this.renderProfileSection() }
+        //         { this.renderAccountSection() }
+        //         { this.renderLanguageSection() }
+        //         { supportsMultiLanguageSpellCheck ? this.renderSpellCheckSection() : null }
+        //         { discoverySection }
+        //         { this.renderIntegrationManagerSection() /* Has its own title */ }
+        //         { accountManagementSection }
+        //     </div>
+        // );
         return (
             <div className="mx_SettingsTab">
                 <div className="mx_SettingsTab_heading">{ _t("General") }</div>
@@ -483,9 +495,6 @@ export default class GeneralUserSettingsTab extends React.Component<IProps, ISta
                 { this.renderAccountSection() }
                 { this.renderLanguageSection() }
                 { supportsMultiLanguageSpellCheck ? this.renderSpellCheckSection() : null }
-                { discoverySection }
-                { this.renderIntegrationManagerSection() /* Has its own title */ }
-                { accountManagementSection }
             </div>
         );
     }
